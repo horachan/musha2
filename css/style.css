@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+body{
+  background: #97c757;
+  line-height: 1.4;
+}
+
+#wrap{
+  width: 880px;
+  margin: 20px auto;
+  background: #ffffff;
+  padding: 40px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, .15);
+}
+
+header{
+  height: 75px;
+}
+
+.logo{
+  float: left;
+}
+
+.nav_bar{
+  float: right;
+}
+
+.nav_bar ul{
+  list-style: none;
+}
+
+.nav_bar ul li{
+  float: left;
+}
+
+#main{
+  width: 570px;
+  float: left;
+  font-size: 15px;
+}
+
+#sub{
+  width: 270px;
+  float: right;
+}
+
+footer{
+  clear: both;
+}
